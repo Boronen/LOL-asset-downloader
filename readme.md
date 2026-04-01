@@ -266,6 +266,18 @@ This project is released under the MIT License.
 
 You may modify or extend the code, but you must not claim ownership of Riot Games assets.
 
+---
+
+## About This Project
+
+This is my first project of this type, and I built it mainly to learn how to work with external APIs, JSON data structures, and Python CLI tools.  
+Because of that, there may be parts of the code that are not fully optimized, overly complicated, or simply unnecessary.
+
+I’m always open to suggestions, improvements, or best‑practice advice.  
+If you notice something that could be cleaner, faster, or more elegant, feel free to open an issue or submit a pull request.  
+Any feedback is appreciated — this project is part of my learning journey.
+
+
 
 
 
